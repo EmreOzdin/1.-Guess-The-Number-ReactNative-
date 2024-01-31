@@ -1,1 +1,0 @@
-# 1.-Guess-The-Number-ReactNative-
